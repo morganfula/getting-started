@@ -1,1 +1,0 @@
-The includes folder will be useful when we need to break down the pieces of our final page into “includables”. Any Pug file can be included in these. However, Pugs aren’t the only ones who can do this. You can include images, HTML files, and any other type of file you want.
